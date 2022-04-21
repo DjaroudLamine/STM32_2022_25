@@ -1,0 +1,32 @@
+!SESSION 2022-02-10 08:12:57.307 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  C:\Users\kissi\Downloads\dht22\dht22\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\kissi\Downloads\dht22\dht22\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-02-10 08:13:27.757
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-02-10 08:13:27.853
+!MESSAGE Log4j initialized with config file C:\Users\kissi\Downloads\dht22\dht22\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-02-10 08:13:36.060
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-02-10 08:14:07.151 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  C:\Users\kissi\Desktop\dht22\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\kissi\Desktop\dht22\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-02-10 08:14:28.366
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-02-10 08:14:28.470
+!MESSAGE Log4j initialized with config file C:\Users\kissi\Desktop\dht22\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-02-10 08:14:38.209
+!MESSAGE Started RMI Server, listening on port 41337
